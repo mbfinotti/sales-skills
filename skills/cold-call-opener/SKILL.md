@@ -87,7 +87,7 @@ No compliance-cost axis belongs on this menu. Consent and scrubbing duty attache
    - Value: about double baseline in Gong's 2018 study, the smallest measured lift on this menu. Gong describes it as pairable with any other opener, so it never fully loses a round.
    - Effort: minutes. One sentence, tested by John Barrows' rule: if the rep cannot finish "the reason for my call is...", do not make the call.
    - Promote it to first when any of these hold: a hard deadline, a rep in their first weeks, a re-attempt (name the prior attempt honestly, never pretend it is the first call), or an owner, SMB, or consumer line.
-   - On a consented B2C list the consent event _is_ the reason for the call ("you asked for a quote on our site Tuesday").
+   - On a consented B2C list, the consent event _is_ the reason for the call ("you asked for a quote on our site Tuesday").
 3. **Context-first / peer-proof** - tied for best measured value, an order of magnitude more effort.
    - Effort: pre-call research per account, plus the composure to defend a peer claim when the prospect challenges it live.
    - Fails hardest: an unsupportable name-drop or surveillance-flavored trivia loses the call outright, the personalization-backfire pattern documented in the reference.
