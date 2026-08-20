@@ -14,14 +14,20 @@
         "sales",
         "b2b-sales",
         "outbound",
+        "prospecting",
         "cold-email",
         "cold-call",
         "discovery",
         "meddpicc",
         "negotiation",
-        "ai-agent-skills",
-        "agentic",
-        "skills"
+        "sales-automation",
+        "agent-skills",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "gemini-cli-extension",
+        "skills-sh"
     ],
     "skills": "./skills/",
     "rules": "./rules/"
