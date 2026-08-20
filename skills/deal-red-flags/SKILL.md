@@ -40,7 +40,7 @@ Ask before reviewing - one question per message, multiple-choice where possible.
 
 - B2B or B2C? (B2C here means considered purchases with a real sales conversation - remodeling, financial products, high-ticket coaching - not impulse retail.)
 - Rough deal size and expected cycle length? (Calibrates severity: a missing mutual action plan is severe on a six-month enterprise deal, irrelevant on a two-week transactional one.)
-- What stage does the seller believe the deal is in, is it on a forecast or commit list, and by what date must the answers land - the forecast call, the stage gate, or the buyer's own event? (A committed deal raises the stakes of every gap; a gap that resolves after that date is not worth chasing at any price.)
+- What stage does the seller believe the deal is in; is it on a forecast or commit list, and by what date must the answers land - the forecast call, the stage gate, or the buyer's own event? (A committed deal raises the stakes of every gap; a gap that resolves after that date is not worth chasing at any price.)
 - What period do the notes cover, and are they complete? (One call's notes cannot evidence trends; see failure modes.)
 - Is the goal this deal, or the habit behind it? (Saving this cycle ranks buyer-facing asks first; fixing qualification or note hygiene promotes the record work that pays across every later deal.)
 - What is the effort ceiling before the next gate - how many asks the relationship can carry, and whether a manager or exec sponsor is available? (Decides which chase and response rungs are open at all.)
