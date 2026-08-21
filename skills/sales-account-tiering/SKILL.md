@@ -192,7 +192,7 @@ CONFIDENCE: which figures are published research vs. directional convention
 Measure whether the tiers are working, by tier and by segment - never blended:
 
 - **Pipeline coverage ratio by segment** - compute required coverage as 1 ÷ that segment's historical win rate, never a flat 3x: an SMB motion winning ~60% needs ~1.7-2x while an enterprise motion at 15-25% needs 4-7x, and a healthy blended number can hide a starved segment. Modeling coverage in depth is mbfinotti/sales-skills@sales-pipeline-coverage-modeling's job; here it is a tier-health dial.
-- **Accounts-per-rep saturation** - is any tier over its cap; for customer books, warning signs include QBR coverage under 80% and accounts silent 14+ days.
+- **Accounts-per-rep saturation** - whether any tier is over its cap; for customer books, warning signs include QBR coverage under 80% and accounts silent 14+ days.
 - **By-tier outcome validation** - pipeline created, win rate, ACV and retention per tier, not engagement clicks. If Tier-1 lift fails to exceed Tier 2/3 within two quarters, the system is not earning its overhead: redesign it, don't re-run it.
 
 Governance:
