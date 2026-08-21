@@ -48,7 +48,7 @@ Ask before drafting. One question per message; offer multiple-choice answers whe
    - efficiency: `GAP > Sandler > SPIN > MEDDPICC`
    - value: `GAP > MEDDPICC > Sandler > SPIN`
    - effort: `MEDDPICC > Sandler == GAP > SPIN`
-   - Default GAP: about an hour of per-deal rehearsal and two impact questions - buys the figure in the prospect's own words that the close, the recap and every downstream deal skill run on.
+   - Default GAP: about an hour of per-deal rehearsal and two impact questions - buys the figure in the prospect's own words that the close, the recap, and every downstream deal skill run on.
    - Sandler: costs the same hour and the same handful of minutes inside a stage already open, the genuine tie on effort with GAP - buys depth on one pain instead of a number, so it ranks second.
    - SPIN: near-zero on both axes - it only re-sequences questions already written, and the spine has absorbed its ordering. Take it free, never budget for it.
    - Starved: MEDDPICC's decision context. High value in a real buying group, highest effort - a whole extra stage, re-gathered per persona across the cycle - so efficiency buries it, and reps ship sheets that quantify a pain nobody can approve. Promote it to first whenever the buying group runs past a single economic buyer, or the buyer is regulated. Gather its elements as questions only; scoring belongs to the scorecard skill.
