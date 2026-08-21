@@ -55,7 +55,7 @@ If the counterpart cannot decide (3b without a mandate, or 3c/3d), flag it befor
      - The business sponsor weighs speed and outcomes.
      - Technical roles weigh support and integration.
    - Route each concession to the stakeholder who values it most, then re-rank. A lever's value is its value to that best recipient, not an average across the room.
-   - Pair every item with (a) a named reciprocal get and (b) the approval level it needs. For a lever carrying contractual or regulatory exposure, record its compliance cost, and how long it binds you, in that approval cell.
+   - Pair every item with (a) a named reciprocal get and (b) the approval level it needs. For a lever carrying contractual or regulatory exposure, record its compliance cost and how long it binds you in that approval cell.
    - No orphan gives: an unpaired concession is a defect in the plan, not a nice gesture.
 5. **Set the walk-away from your alternative, never from your margin floor.** Value the no-deal alternative (your BATNA), derive the reservation price from it, and write it down. Estimate the counterpart's reservation point too: if the two ranges cannot overlap (no ZOPA), walking is the rational plan and no concession sequence fixes it.
 6. **Plan ranges per issue and plan issues independently, not as a fixed sequence.** Set an opening, a target, and a limit for each issue.
