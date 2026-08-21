@@ -95,7 +95,7 @@ Conversational benchmarks (talk ratios, question counts) may appear as context o
 
 ## Bounded feedback
 
-"Managers, please stop giving 10-20 pieces of feedback on calls and role plays. One." (Kevin Dorsey via 30MPC). A rep's capacity for behaviour change is also capped - stacking too many simultaneous changes prevents any of them (as Mark Kosoglow's Rep Assessment Matrix argument, 30MPC).
+"Managers, please stop giving 10-20 pieces of feedback on calls and role plays. One." (Kevin Dorsey via 30MPC). A rep's capacity for behaviour change is also capped - stacking too many simultaneous changes prevents any of them (Mark Kosoglow's Rep Assessment Matrix argument, 30MPC).
 
 Reconcile that with a full rubric like this: **score everything, surface little**. The complete score sheet exists for the record - calibration, trend, and the next review's starting point.
 
