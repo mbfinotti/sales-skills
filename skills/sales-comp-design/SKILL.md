@@ -148,7 +148,7 @@ If your harness has persistent memory, store the approved decisions so next cycl
    - Outcome metrics, never activity counts.
    - Sized against the standing commissions budget, so it's self-funding.
 
-   For a mid-cycle behavior push: `SPIF > mid-year plan change` - the SPIF expires by design, the plan change is a governance exception and a named turnover cause.
+   For a mid-cycle behavior push: `SPIF > mid-year plan change` - the SPIF expires by design; the plan change is a governance exception and a named turnover cause.
 
    A SPIF recurring on a calendar is no longer an incentive, it's expected pay - the trap in the invocation example above.
 
