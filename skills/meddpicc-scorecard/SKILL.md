@@ -80,7 +80,7 @@ Full MEDDPICC on every deal is over-engineering; scoring the wrong list is the f
 
 Drop from the low-value, expensive end inward: Paper Process leaves first (the first element dropped in lightweight practice), then Decision Criteria, then Competition.
 
-- Pain == Metrics: they are one answer from two directions, the costed consequence and the number the buyer owns arrive in the same sentence.
+- Pain == Metrics: they are one answer from two directions: the costed consequence and the number the buyer owns arrive in the same sentence.
 - Metrics, Pain and Champion tie at the cheap end and never drop: on a small deal each is a single question, and any two of them are unreadable without the third.
 - Economic Buyer sits on neither line: it is a gate, and on small deals it merges into Champion instead of being dropped.
 
