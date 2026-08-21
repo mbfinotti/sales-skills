@@ -70,7 +70,7 @@ Three entry routes compete for a first seat. Default ordering, before anything y
 
 - efficiency (income bought per year of runway spent): B2B SDR seat > adjacent-seat lateral > licensed B2C book
 - income within two years: B2B SDR seat > adjacent-seat lateral > licensed B2C book (newest agents, two years or less, median $8,000 gross in 2025 - NAR 2026)
-- income ceiling past five years: B2B AE ladder > licensed B2C book - median $88,500 at 16+ years against a $190K median AE OTE(NAR 2026 and Bridge Group). B2C's top decile is uncapped and unmeasured; that is the case for promoting it, not for ranking it first.
+- income ceiling past five years: B2B AE ladder > licensed B2C book - median $88,500 at 16+ years against a $190K median AE OTE (NAR 2026 and Bridge Group). B2C's top decile is uncapped and unmeasured; that is the case for promoting it, not for ranking it first.
 - effort (years to a producing seat, unpaid preparation, washout risk): licensed B2C book > adjacent-seat lateral > B2B SDR seat
 - compliance cost (B2C only): a jurisdiction-bound licensing exam (first-time pass ~57.9%,), continuing education, and brokerage sponsorship in real estate. The licence does not travel, so relocating restarts it. Both B2B routes carry none - say nothing about compliance when ranking them.
 
