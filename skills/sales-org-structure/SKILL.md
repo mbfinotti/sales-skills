@@ -96,7 +96,7 @@ Worked transition cases - Island to Assembly Line, the hunter/farmer decision, s
 
 ## Brainstorm before you restructure
 
-An org design hardens the moment it is announced - reversing a reorg costs more trust than any other planning artifact. Surface the assumptions first.
+An org design hardens the moment leadership announces it - reversing a reorg costs more trust than any other planning artifact. Surface the assumptions first.
 
 1. After the interview, present 2-3 candidate structures (drawn from the stages and moves above, adapted to the answers) with trade-offs and one explicit recommendation. Ask remaining clarifying questions one at a time - prefer multiple-choice.
 2. Get explicit approval on the direction before detailing anything.
