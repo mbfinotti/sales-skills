@@ -39,7 +39,7 @@ Each ask enters at a different point. Run the interview first regardless; the an
 
 Ask before sizing. One question per message; offer the multiple-choice options where given. Skip anything already answered by prior context.
 
-1. What triggered this: (a) first-ever sizing for a product or market, (b) a periodic planning refresh, (c) a quota, territory, or headcount plan needs a market number behind it, (d) diagnosing plans that keep missing against the current sizing?
+1. What triggered this: (a) first-ever sizing for a product or market, (b) a periodic planning refresh, (c) a quota, territory, or headcount plan needing a market number behind it, (d) diagnosing plans that keep missing against the current sizing?
 2. Is the market B2B, B2C, or mixed - and what unit would you count: companies matching a profile, or a population with a purchase rate?
 3. How many product lines need sizing? Each line gets its own TAM/SAM/SOM set - a blended figure across lines hides where the opportunity actually sits.
 4. Does a written ICP exist: (a) documented and scored, (b) informal, in people's heads, (c) none? If none, flag mbfinotti/sales-skills@sales-icp-definition and proceed with draft filters the user confirms.
