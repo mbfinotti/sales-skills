@@ -281,7 +281,7 @@ Judge angles on positive replies and meetings, never opens - privacy proxies inf
 
 General practice, not legal advice - this skill asserts no legal conclusions; verify against primary sources with your own counsel.
 
-- Honour opt-outs, do-not-contact requests, and suppression lists before any send; keep a working unsubscribe path on email.
+- Honor opt-outs, do-not-contact requests, and suppression lists before any send; keep a working unsubscribe path on email.
 - Reference only data the prospect made public or gave the business directly - never data they would be surprised you hold.
 - Never use special-category or sensitive personal data as an angle (see Anti-fabrication rule).
 - Regimes to check for your jurisdictions and channels: GDPR/ePrivacy (EU/UK), CAN-SPAM (US), CASL (Canada), CCPA/CPRA (California). Their consent and opt-out rules differ materially.
