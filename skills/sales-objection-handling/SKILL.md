@@ -32,7 +32,7 @@ Ask one question per message. Offer multiple-choice options wherever possible - 
 7. Do you sell in a regulated category - securities, insurance, lending, health/pharma, energy/utilities? (See Ethics and compliance.)
 8. By when does this have to land - the call tomorrow, this quarter's pipeline, or next year's team enablement?
 9. One-off win or compounding asset: scripts for one rep's live deal, or a framework the whole team adopts and drills?
-10. What's the effort ceiling - rehearsal hours available before the next call, and can the rep offer an opt-out, guarantee or phased start without sign-off?
+10. What's the effort ceiling - rehearsal hours available before the next call, and can the rep offer an opt-out, guarantee, or phased start without sign-off?
 
 Re-rank the framework ladder on those answers, and say which answer moved what:
 
