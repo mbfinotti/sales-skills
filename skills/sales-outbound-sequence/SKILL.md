@@ -59,7 +59,7 @@ Every ranking in this skill is a default, not a law. Re-rank against the answers
    **in-thread bump > blank connection request > extra email angle > call + voicemail > social DM > video message**
 
    - Email carries the ask; every other channel exists to lift email replies.
-   - The order is decided by rep minutes per touch and how reversible the damage is: a domain burned by complaints is the one thing a cadence cannot undo, and a call block is a standing daily job.
+   - Rep minutes per touch and how reversible the damage is decide the order: a domain burned by complaints is the one thing a cadence cannot undo, and a call block is a standing daily job.
    - Full axes, per-channel costs, the two deletions, and the re-ranking conditions are in [references/cadence-patterns.md](references/cadence-patterns.md).
    - Practitioner guidance, not law - say so.
 
