@@ -160,5 +160,5 @@ Outcome KPIs to track after the decision ships - against the motion's own band, 
 - mbfinotti/sales-skills@sales-account-segmentation for the per-segment motion map - a company running different motions by segment needs the segment model before it can assign one to each.
 - See [./references/motion-fit-frameworks.md](./references/motion-fit-frameworks.md) for the named frameworks, the ACV heuristic table and the constraint axes.
 - See [./references/motion-benchmarks.md](./references/motion-benchmarks.md) for every dated benchmark, the decision thresholds and the source catalogue.
-- See [./references/motion-transition-playbooks.md](./references/motion-transition-playbooks.md) for the founder-led exit, PLG-layering, enterprise-shift and channel playbooks.
+- See [./references/motion-transition-playbooks.md](./references/motion-transition-playbooks.md) for the founder-led exit, PLG-layering, enterprise-shift, and channel playbooks.
 - See [./references/motion-case-evidence.md](./references/motion-case-evidence.md) for the named cases in both directions and the survivorship caveat.
