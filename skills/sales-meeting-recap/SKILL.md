@@ -9,7 +9,7 @@ metadata:
 
 # Meeting Recap
 
-Convert the user's call notes into two artifacts: a recap email the buyer will ratify by replying, and mutual close plan items when the deal is complex enough to warrant a shared plan. The organising rule is Armand Farrokh's (30MPC): a recap email answers exactly two questions - "Did you make it clear what the prospect needs to do next?" and "Did you remind them why they agreed to take action?" Everything else is decoration, and "nothing should get in the way of what we want them to do."
+Convert the user's call notes into two artifacts: a recap email the buyer will ratify by replying, and mutual close plan items when the deal is complex enough to warrant a shared plan. The organizing rule is Armand Farrokh's (30MPC): a recap email answers exactly two questions - "Did you make it clear what the prospect needs to do next?" and "Did you remind them why they agreed to take action?" Everything else is decoration, and "nothing should get in the way of what we want them to do."
 
 Second rule: the recap is champion-enablement content. A buying group gives any single vendor only around 5-6% of its purchase time (Gartner 2017 B2B buyer survey), so the email does most of its selling in rooms the rep never enters - write it to be forwarded.
 
