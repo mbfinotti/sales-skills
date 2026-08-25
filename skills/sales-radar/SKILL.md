@@ -57,7 +57,7 @@ Roughly twenty verified B2B sources, one line each, grouped by medium. Every ent
 **Communities**
 
 - **Pavilion** - joinpavilion.com - paid membership, VP/CRO/RevOps leaders, the most senior community here.
-- **Sales Assembly** - salesassembly.com - company-level paid membership for B2B SaaS revenue teams ($500k-$10M ARR).
+- **Sales Assembly** - salesassembly.com - company-level paid membership for B2B SaaS revenue teams ($500K-$10M ARR).
 - **r/sales** - reddit.com/r/sales - unfiltered practitioner consensus, free.
 
 **Conferences**
