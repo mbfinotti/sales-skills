@@ -64,7 +64,7 @@ Three rungs, all answering "what multiple of quota must the pipeline be":
 - value: `conversion-inversion > stage-weighted > raw multiplier`
 - effort: `conversion-inversion (quarters of weekly snapshots, a standing job) > stage-weighted (a calibration pass over closed deals) > raw multiplier (an hour, from CRM history)`
 
-1. **Raw multiplier.** Target = 1 ÷ win rate, per segment; pipeline counted at face value. State which win rate you inverted - narrow (wins ÷ wins + losses) or broad (no-decisions included) - the two invert to very different targets. With no stable history, borrow a segment band ([coverage-benchmarks.md](./references/coverage-benchmarks.md)) and replace it after ~2 closed quarters.
+1. **Raw multiplier.** Target = 1 ÷ win rate, per segment; pipeline counted at face value. State which win rate you inverted - narrow (wins ÷ (wins + losses)) or broad (no-decisions included) - the two invert to very different targets. With no stable history, borrow a segment band ([coverage-benchmarks.md](./references/coverage-benchmarks.md)) and replace it after ~2 closed quarters.
 2. **Stage-weighted.** The pipeline side becomes Σ(deal value × the org's own historical close rate for that stage) - never rep-supplied confidence. Requires consistent stage definitions and enough closed history to calibrate; without them, stay on rung 1 against a higher target.
 3. **Conversion-inversion.** Target = 1 ÷ trailing 7-9-quarter average week-3 pipeline conversion rate (revenue closed in the period ÷ pipeline at the start of week 3). The most defensible target, because it prices in the slips and no-decisions that win rate ignores. Method, critique, and worked examples: [conversion-inversion-method.md](./references/conversion-inversion-method.md).
 
