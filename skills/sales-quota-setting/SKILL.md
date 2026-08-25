@@ -37,7 +37,7 @@ Ask before modeling. One question per message; offer the multiple-choice options
 6. Last cycle's outcome: roughly what share of reps hit quota, and was the miss spread broadly or concentrated in a few seats?
 7. Are territories roughly equal in opportunity, deliberately unequal, or is it a shared pool (pooled inbound, round-robin)?
 8. What are OTE and the base/variable split? Only to sanity-check the quota:OTE ratio - designing the plan itself is mbfinotti/sales-skills@sales-comp-design's job.
-9. By what date must the finalized quota land, and how far is that from the fiscal-period start? A full derivation cycle standardly starts 3-4 months before the period begins.
+9. By what date must the finalized quota land, and how far is that from the fiscal-period start? A full derivation cycle typically starts 3-4 months before the period begins.
 10. Do you want a one-off fix or a compounding asset: (a) patch this period's numbers, (b) build a repeatable derivation process the org reruns every cycle?
 11. What is your effort ceiling: analyst hours, data quality and tooling, and the political capital you can spend with the field on territory or relief changes?
 
