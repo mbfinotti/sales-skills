@@ -64,9 +64,14 @@ Update with `gemini extensions update sales-skills`.
 
 ## Skills
 
-This collection covers the full sales surface. Start here:
+This collection covers the full sales surface.
 
-- [`sales-kickoff`](./sales-kickoff): Routes any broad or ambiguous sales request to the one skill that fits, then bootstraps the project's shared sales-context file.
+### Start here
+
+[`sales-kickoff`](./sales-kickoff): Routes any broad or ambiguous sales request to the one skill that fits, then bootstraps the project's shared sales-context file.
+
+### Meta
+
 - [`sales-career`](./sales-career): Coaches a candidate through breaking into sales, SDR-to-AE promotion, interview prep, and evaluating an offer against dated benchmarks.
 - [`sales-hiring`](./sales-hiring): Builds the employer-side hiring loop: outcome scorecard, structured interview bank, scored mock-call work sample, 30-60-90 ramp plan.
 - [`sales-org-structure`](./sales-org-structure): Designs role mix, topology, SDR-to-AE ratio, hunter/farmer split, and span of control for the team's current stage.
