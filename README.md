@@ -36,8 +36,8 @@ npx skills add mbfinotti/sales-skills
 **Claude Code**: install the plugin:
 
 ```bash
-/plugin marketplace add mbfinotti/mbfinotti
-/plugin install sales-skills@mbfinotti
+/plugin marketplace add mbfinotti/sales-skills
+/plugin install sales-skills@sales-skills
 ```
 
 **Codex (OpenAI)**: install via the Codex CLI:
