@@ -198,17 +198,17 @@ Every variant passes all items before handoff. Iterate - redraft, re-run the hum
 
 ## Common failure modes
 
-| Failure                                                  | Fix                                                                                                                         |
-| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Sounds like a script                                     | Humanizer pass + read-aloud; contractions; the rep's own vocabulary from the interview                                      |
-| Over-long opener                                         | Cut to one pain sentence; 30-second timer is the law                                                                        |
-| Fake familiarity ("How have you been?" to a stranger)    | Cite a real signal or drop the claim; small-talk openers are off the pattern menu, not a judgment call                      |
-| Stacked questions                                        | One ask; park the rest for discovery                                                                                        |
+| Failure                                                         | Fix                                                                                                                         |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Sounds like a script                                            | Humanizer pass + read-aloud; contractions; the rep's own vocabulary from the interview                                      |
+| Over-long opener                                                | Cut to one pain sentence; 30-second timer is the law                                                                        |
+| Fake familiarity ("How have you been?" to a stranger)           | Cite a real signal or drop the claim; small-talk openers are off the pattern menu, not a judgment call                      |
+| Stacked questions                                               | One ask; park the rest for discovery                                                                                        |
 | Asking for time the rep does not need ("Can I get 30 minutes?") | Ask for the conversation already in progress                                                                                |
-| Feature dumping                                          | The opener names a pain, never describes the product beyond the one-liner                                                   |
-| Apologizing for calling ("sorry to bother you")          | Own the interruption instead - the permission-based pattern names it without apology                                        |
-| Inviting the exit ("Did I catch you at a bad time?")     | Both Gong datasets rank better options (0.9% in 2018; 2.15% in 2024 - the two disagree on the baseline, not on the ranking) |
-| Treating the opener as discovery                         | One hypothesis, one ask; question batteries belong after engagement                                                         |
+| Feature dumping                                                 | The opener names a pain, never describes the product beyond the one-liner                                                   |
+| Apologizing for calling ("sorry to bother you")                 | Own the interruption instead - the permission-based pattern names it without apology                                        |
+| Inviting the exit ("Did I catch you at a bad time?")            | Both Gong datasets rank better options (0.9% in 2018; 2.15% in 2024 - the two disagree on the baseline, not on the ranking) |
+| Treating the opener as discovery                                | One hypothesis, one ask; question batteries belong after engagement                                                         |
 
 ## Expected output
 
