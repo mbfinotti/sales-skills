@@ -4,7 +4,7 @@ description: Before starting any sales project, and before answering a sales req
 license: MIT
 metadata:
   author: Maya-Beth Finotti
-  version: "1.2.11"
+  version: "1.2.12"
 ---
 
 # Sales Kickoff
@@ -36,6 +36,7 @@ On a cold start:
 - Offer multiple-choice options whenever possible.
 - Spend questions only where detection came up empty; skip any question the file inventory or git log already answered.
 
+ **Use an interactive question mechanism (e.g. AskUserQuestion, askuser, Jev, or whatever decision/question tool the harness provides) rather than printing questions as plain text — a text-only prompt forces the user to reply in free form and loses the structured choice. Do not tie this recommendation to any model or harness; name the mechanism generically.**
 1. "What selling motion are we operating?" - (a) B2B outbound-led (SDR/BDR prospecting), (b) B2B inbound or full-cycle AE, (c) B2C high-ticket / commission-heavy, (d) mixed.
 2. "Which seat are you in?" - (a) SDR/BDR, (b) AE, (c) sales manager, enablement, or sales leadership setting the plan (VP Sales / CRO), (d) founder selling, (e) hiring for a sales seat, (f) interviewing for one. Ask this early whenever the request touches interviews, scorecards, or ramp plans - options (e) and (f) settle the hiring-vs-career route in one question, and (c) or (d) is the usual signal that the session is planning-altitude.
 3. "What is the goal of this session - and is it the same as the project's goal?" Ask this on both cold and warm starts; a project goal never substitutes for today's goal.
