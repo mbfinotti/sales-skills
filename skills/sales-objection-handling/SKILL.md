@@ -4,7 +4,7 @@ description: Diagnoses what a sales objection really means and writes rebuttal s
 license: MIT
 metadata:
   author: Maya-Beth Finotti
-  version: "1.2.8"
+  version: "1.2.9"
 ---
 
 # Objection Handling
@@ -147,7 +147,7 @@ Price gets its own treatment because "too expensive" is the most common objectio
 Triage first - the two meanings need opposite responses:
 
 - Value gap: the buyer doesn't yet see enough value to justify the number. Fix the value story, not the price. Use the buyer's own stated goal against the objection (Keenan's Gap Selling): "You said cutting audit prep was the priority this quarter - help me understand how the price outweighs that." Quantifying the gap is mbfinotti/sales-skills@deal-value-calc's job.
-- Genuine budget constraint: the money truly isn't available this cycle. No value pitch fixes this. Change the terms, ranked by what each costs the rep against what it recovers: `phased start > smaller scope > later start date > champion enablement > disqualify with a re-entry date`. A phased start needs no new approval and keeps the deal this quarter; a smaller scope shrinks it permanently; a later start date only moves the problem; champion enablement costs a week of the rep's time building someone else's business case; disqualifying is last because it recovers nothing this cycle - but it is the honest answer once none of the four above fit.
+- Genuine budget constraint: the money truly isn't available this cycle. No value pitch fixes this. Change the terms, ranked by what each costs the rep against what it recovers: `phased start > smaller scope > later start date > champion enablement > disqualify with a re-entry date`. A phased start needs no new approval and keeps the deal this quarter; a smaller scope shrinks it permanently; a later start date only moves the problem; champion enablement costs a day or two of the rep's time building someone else's business case, and then rides on the champion's capital; disqualifying is last because it recovers nothing this cycle - but it is the honest answer once none of the four above fit.
 
 Split them with: "Is it that the number doesn't fit this year's budget, or that you're not sure it'd be worth it at that number?"
 

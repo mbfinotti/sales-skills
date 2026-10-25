@@ -4,7 +4,7 @@ description: Designs the account segmentation model between ICP and tier structu
 license: MIT
 metadata:
   author: Maya-Beth Finotti
-  version: "1.2.2"
+  version: "1.2.3"
 ---
 
 # Sales Account Segmentation
@@ -92,7 +92,7 @@ Which layers build the fit model, ranked by efficiency (value returned per unit 
 - Firmographics answer "who" and size the universe.
 - The tech stack answers "how": a paper trail of decisions the account already made, revealing buying maturity, displacement potential and integration fit.
 
-Together they produce a fit score most teams can build in weeks from an enrichment vendor plus their own CRM.
+Together they produce a fit score most teams can build in a week or two from an enrichment vendor plus their own CRM.
 
 The remaining rungs follow, in that same efficiency order:
 

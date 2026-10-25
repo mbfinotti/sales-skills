@@ -4,7 +4,7 @@ description: Turns raw sales call notes into a structured recap email with agree
 license: MIT
 metadata:
   author: Maya-Beth Finotti
-  version: "1.3.4"
+  version: "1.3.5"
 ---
 
 # Meeting Recap
@@ -98,7 +98,7 @@ Three rungs answer "how much plan does this deal need". Ranked by value per rep 
 
 1. **A booked next meeting, no plan** - near-zero minutes, and the only rung that scales across a whole pipeline. Buys what most deals actually need: somewhere for momentum to live. Default rung.
 2. **Two or three seeded milestones inside the recap** - a few extra minutes on top of the recap, one deal at a time. Buys an early look at the paper process and at least one buyer-owned step, without asking the buyer to co-own a document yet.
-3. **A full mutual action plan** - an hour to build, then a standing job to keep current through every call until go-live. Buys coordination a committee deal gets no other way: dated, owned milestones through security review, legal and procurement.
+3. **A full mutual action plan** - half an hour to build, then a standing job to keep current through every call until go-live. Buys coordination a committee deal gets no other way: dated, owned milestones through security review, legal and procurement.
 
 - value: full plan > seeded milestones > booked meeting
 - effort: full plan > seeded milestones > booked meeting
@@ -132,10 +132,10 @@ Consumer-sales follow-up practice (real estate, med spas, automotive, gyms, fina
 
 Four recap weights, listed lightest to heaviest. The ranking is the pair of efficiency lines below, not this list order - which weight wins per rep minute inverts with who is executing:
 
-1. **Automated lifecycle sequence** - a week to build once, then near-zero minutes per deal, and it is the only option that covers a whole pipeline at once. Buys coverage, never the buyer's own words.
+1. **Automated lifecycle sequence** - a day or two to build once, then near-zero minutes per deal, and it is the only option that covers a whole pipeline at once. Buys coverage, never the buyer's own words.
 2. **Short recap** - minutes per deal, one deal at a time. Three to five sentences, one next step with a real date, no close plan. Fits transactional, self-serve, single-decision-maker, and B2C motions including high-ticket consumer (solar, real estate, financial advisory).
-3. **Full recap to multiple contacts** - tens of minutes per deal. Buys the multithreaded, forwardable record a committee deal runs on.
-4. **Full recap plus mutual close plan** - an hour, then a standing job. Buys coordination through the buyer's paper process.
+3. **Full recap to multiple contacts** - ten minutes or so per deal. Buys the multithreaded, forwardable record a committee deal runs on.
+4. **Full recap plus mutual close plan** - half an hour, then a standing job. Buys coordination through the buyer's paper process.
 
 - value per deal: full recap + plan > full recap > short recap > automated sequence
 - effort per deal: full recap + plan > full recap > short recap > automated sequence (the sequence is last only because its cost is paid once, up front, not per deal)

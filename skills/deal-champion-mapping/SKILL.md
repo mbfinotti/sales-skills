@@ -4,7 +4,7 @@ description: Builds an evidence-graded stakeholder map for one active deal from 
 license: MIT
 metadata:
   author: Maya-Beth Finotti
-  version: "1.4.11"
+  version: "1.4.12"
 ---
 
 # Champion Mapping
@@ -196,18 +196,18 @@ Hypothesize blockers by function, not by who has shown up. The recurring pattern
 - efficiency: legal > security == compliance > procurement > economic > incumbent loyalist > political > technical
 - compliance cost: compliance/residency commitments > legal redlines > everything else (near-zero) - a residency option or a bespoke clause conceded to clear one review binds every renewal after it, and is the only play here you cannot quietly reverse
 
-Security and compliance tie on both lines because they are the same job - producing an evidence pack - aimed at a different reviewer: an hour when the pack exists, a quarter when it must be built from scratch.
+Security and compliance tie on both lines because they are the same job - producing an evidence pack - aimed at a different reviewer: an hour when the pack exists, a few weeks when it must be built from scratch, a quarter when it waits on a certification audit.
 
 | Blocker                      | Signal and motivation                                                   | Veto power                            | Neutralise / co-opt                                      | Effort                                                                          |
 | ---------------------------- | ----------------------------------------------------------------------- | ------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | Legal                        | DPA/MSA redlines; liability, data rights                                | Blocks on unacceptable clauses        | Pre-empt with standard terms                             | Near-zero: send the standard paper before they ask                              |
-| Security / InfoSec           | Questionnaire, certification review; data isolation, compliance posture | Can veto after everyone else approves | Certifications, architecture docs, SSO                   | An hour if the pack exists; a quarter to build one                              |
-| Compliance / privacy         | Data-residency and regulatory review; audit mandates                    | Veto on residency/compliance          | Compliance briefs; residency options                     | An hour if the pack exists; a quarter to build one                              |
+| Security / InfoSec           | Questionnaire, certification review; data isolation, compliance posture | Can veto after everyone else approves | Certifications, architecture docs, SSO                   | An hour if it exists; a few weeks to build one, a quarter if it awaits an audit |
+| Compliance / privacy         | Data-residency and regulatory review; audit mandates                    | Veto on residency/compliance          | Compliance briefs; residency options                     | An hour if it exists; a few weeks to build one, a quarter if it awaits an audit |
 | Procurement                  | Appears at paper-process stage; price, terms, vendor risk               | Controls contract terms and timeline  | Engage early; give champion negotiation cover            | Near-zero, but only if run before the paper stage                               |
-| Economic (CFO, budget owner) | TCO/ROI questions; controls funding; cost and opportunity cost          | Blocks funding if ROI unproven        | ROI model in their own numbers; business case in dollars | A week - and it needs the champion's capital to get their numbers               |
+| Economic (CFO, budget owner) | TCO/ROI questions; controls funding; cost and opportunity cost          | Blocks funding if ROI unproven        | ROI model in their own numbers; business case in dollars | A day or two - and it needs the champion's capital to get their numbers         |
 | Incumbent loyalist           | Advocates status quo; switching cost, sunk relationship                 | Rallies for "do nothing"              | Cost-of-inaction framing; contain rather than convert    | Near-zero to produce, but conversion rarely lands - budget for containment only |
 | Political                    | Competing initiative, turf; status, control, rival project              | Informal; can rally opposition        | Align to their agenda; executive sponsor                 | A week or more, and unwinnable if their rival project is funded                 |
-| Technical (CTO, architect)   | "We need to run this through IT"; integration cleanliness, standards    | Veto authority, rarely budget         | Surface early; technical validation, POC                 | A quarter of engineering time on both sides                                     |
+| Technical (CTO, architect)   | "We need to run this through IT"; integration cleanliness, standards    | Veto authority, rarely budget         | Surface early; technical validation, POC                 | A few weeks of engineering on your side, up to a quarter of theirs              |
 
 The proof-of-concept is what this order starves: it produces the strongest technical proof and has the worst ratio on the table, and it is the only play that also spends the buyer's engineering time and the champion's capital to schedule. Promote it when either holds:
 

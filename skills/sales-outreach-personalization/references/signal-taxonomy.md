@@ -4,9 +4,9 @@ Classify each supplied signal into one category. The category sets the typical i
 
 Categories appear in the efficiency order set in SKILL.md § Signal taxonomy - replies bought per minute of sourcing - so the first one you can confirm is usually the one to use. That order is a default: re-rank it against the tools the user already licenses, the size of their account list, and how many minutes per prospect they actually have.
 
-**B2B efficiency**: hiring == leadership change > product and launch news > community and review activity > tooling change > public content and speaking > funding and financial. Relationship and mutual connection sits outside the order - highest value, and the only cost that lands on someone else's calendar.
+**B2B efficiency**: hiring == leadership change > tooling change > product and launch news > community and review activity > public content and speaking > funding and financial. Relationship and mutual connection sits outside the order - highest value, and the only cost that lands on someone else's calendar.
 
-Cost lines below use orders of magnitude only: near-zero, an hour, a week, a standing job. Nothing finer than that is real, and no ranking here depends on a precise minute count.
+Cost lines below use orders of magnitude only: near-zero, a short research pass, an hour, a week, a standing job. Nothing finer than that is real, and no ranking here depends on a precise minute count.
 
 ## Table of Contents
 
@@ -32,6 +32,14 @@ Cost lines below use orders of magnitude only: near-zero, an hour, a week, a sta
 - **Typical inference**: new leaders re-evaluate tooling and want early wins; a moved champion is warm context at the new account and churn risk at the old one.
 - **Freshness**: strongest inside 30-90 days of the change taking effect.
 
+### Technology and tooling changes
+
+- **Look for**: adopting or dropping a tool, a migration, a competitor removed from the stack.
+- **Surfaces in**: technology-detection services, job postings naming tools, engineering blogs, integration pages.
+- **Cost to source**: near-zero with a detection service already licensed; a short research pass of inference from job postings and engineering blogs without one. Licensing one ties this category with hiring at the top of the order.
+- **Typical inference**: active evaluation is happening or just finished - friction with the old tool or gaps in the new one are current.
+- **Freshness**: strongest inside ~90 days of the change.
+
 ### Product and launch news
 
 - **Look for**: a launch, market or geographic expansion, rebrand, pricing change, new integration.
@@ -49,14 +57,6 @@ Cost lines below use orders of magnitude only: near-zero, an hour, a week, a sta
 - **Compliance cost**: a venue-norm judgement before every use. Engage where a reply is normal for that venue; never turn a public post into an uninvited private message, and never contact anyone off a personal-distress post.
 - **Freshness**: strongest inside ~30 days.
 
-### Technology and tooling changes
-
-- **Look for**: adopting or dropping a tool, a migration, a competitor removed from the stack.
-- **Surfaces in**: technology-detection services, job postings naming tools, engineering blogs, integration pages.
-- **Cost to source**: near-zero with a detection service already licensed; an hour of inference from job postings and engineering blogs without one. Licensing one promotes this category several places up the order.
-- **Typical inference**: active evaluation is happening or just finished - friction with the old tool or gaps in the new one are current.
-- **Freshness**: strongest inside ~90 days of the change.
-
 ### Public content and speaking
 
 - **Look for**: a post, article, podcast appearance, or conference talk by the prospect themselves.
@@ -70,7 +70,7 @@ Cost lines below use orders of magnitude only: near-zero, an hour, a week, a sta
 
 - **Look for**: a raised round, acquisition or divestiture, IPO, major layoff, publicly reported results.
 - **Surfaces in**: press coverage, company announcements, funding databases, professional-network posts.
-- **Cost to source**: near-zero to spot the headline, an hour to qualify it down to what the money actually funds - and only the second version is an angle.
+- **Cost to source**: near-zero to spot the headline, a short research pass to qualify it down to what the money actually funds - and only the second version is an angle.
 - **Typical inference**: new budget and new pressure to show growth - or, for layoffs, cost pressure and consolidation of tooling.
 - **Why it ranks last**: the headline reaches every seller at once, so the unqualified version is the most-sent and least-differentiated angle in outbound. The event alone is not the angle; the problem it creates is.
 - **Freshness**: strongest inside ~90 days.
