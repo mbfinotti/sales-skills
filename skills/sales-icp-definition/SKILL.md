@@ -4,7 +4,7 @@ description: Defines the company's ideal customer profile (ICP) at sales-leaders
 license: MIT
 metadata:
   author: Maya-Beth Finotti
-  version: "1.3.10"
+  version: "1.3.11"
 ---
 
 # Sales ICP Definition
@@ -49,7 +49,7 @@ Ask before proposing:
 
 Re-rank the weighting ladder against answers 7-9 before proposing anything. Say which answer moved what:
 
-- A hard date inside weeks demotes regression regardless of deal volume (analyst-defined ships in a workshop).
+- A hard date inside a week or two demotes regression regardless of deal volume (analyst-defined ships in a workshop).
 - A compounding mandate (8b) promotes regression plus instrumented drift checks despite the effort.
 - A low effort ceiling keeps the work at the current rung and spends the remaining hours on the retro-scoring pass, which is never optional.
 
@@ -113,7 +113,7 @@ If your harness has persistent memory, store the approved artifact: definition p
 3. **Make disqualifiers a first-class subtraction, not an afterthought.** Mine _lost_ deals that matched firmographics for the real reason they died (price, missing feature, regulatory blocker, location) and score those as deductions. Also ask what disqualifies an account even when it looks attractive on paper.
 4. **Weight on the data-maturity ladder** - a ranked menu, ordered here by efficiency:
    - value: `regression-based > analyst-defined > equal weighting`
-   - effort: `regression-based (100-150+ tagged deals, statistical skill, weeks) > analyst-defined (a cross-functional workshop) > equal weighting (near-zero)`
+   - effort: `regression-based (100-150+ tagged deals, statistical skill, days to a week) > analyst-defined (a cross-functional workshop) > equal weighting (near-zero)`
    - efficiency: `analyst-defined > equal weighting > regression-based`
 
    Rung by rung:

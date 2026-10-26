@@ -4,7 +4,7 @@ description: Chooses and designs the company-level sales motion at VP Sales / CR
 license: MIT
 metadata:
   author: Maya-Beth Finotti
-  version: "1.3.7"
+  version: "1.3.8"
 ---
 
 # Sales Motion
@@ -82,9 +82,9 @@ If your harness has persistent memory, store the approved decisions - chosen mot
 6. **Plan the transition with ranked levers and gates.** The dominant real-world transition is layering, not switching. When the move is PLG-adds-sales, sequence it on Bessemer's six-tactic playbook (PQL scoring and pricing flexibility _before_ the first enterprise sales leader, keyed to roughly the $25M ARR mark) and re-comp before re-org. When the entry ask is "lift free-to-paid conversion", rank the four levers by efficiency:
    - efficiency: `reverse-trial packaging > PQL-routed sales assist > higher-intent signup targeting > activation rework`
    - value: `PQL-routed sales assist > activation rework > reverse-trial packaging > higher-intent signup targeting`
-   - effort: `activation rework (a product quarter) > PQL-routed sales assist (a hire plus the 4x test) > higher-intent signup targeting (a campaign shift) > reverse-trial packaging (a pricing change, weeks)`
+   - effort: `activation rework (most of a product quarter: design and experiment cycles bind, not the build) > PQL-routed sales assist (a hire plus the 4x test) > higher-intent signup targeting (a campaign shift) > reverse-trial packaging (a pricing change, weeks)`
 
-   Default lever: **reverse-trial packaging** (~2x conversion vs freemium for a pricing change). Move up to **PQL-routed sales assist** once PQL volume lets a rep clear the 4x floor - PQLs close at 20-30% against 3-10% for MQLs, which is the whole economic case for the layer. The efficiency order starves **activation rework** - second on value, the only lever whose payoff compounds, and a full product quarter of effort; promote it anyway when trial conversion sits below the ~4-6% median despite healthy traffic, because no downstream lever fixes a product that doesn't activate.
+   Default lever: **reverse-trial packaging** (~2x conversion vs freemium for a pricing change). Move up to **PQL-routed sales assist** once PQL volume lets a rep clear the 4x floor - PQLs close at 20-30% against 3-10% for MQLs, which is the whole economic case for the layer. The efficiency order starves **activation rework** - second on value, the only lever whose payoff compounds, and most of a product quarter of effort; promote it anyway when trial conversion sits below the ~4-6% median despite healthy traffic, because no downstream lever fixes a product that doesn't activate.
 
    These three orderings are synthesized from the per-lever figures, not lifted from a study that ranked them - treat them as a default, not a law, and re-rank against the interview: an org with idle product-engineering capacity gets activation rework near-free, and one that already runs a sales-assist team has already paid PQL-routed assist's main cost. Playbooks for every transition direction, including the enterprise shift and channel: [motion-transition-playbooks.md](./references/motion-transition-playbooks.md).
 

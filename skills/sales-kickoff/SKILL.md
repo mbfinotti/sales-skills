@@ -4,7 +4,7 @@ description: Before starting any sales project, and before answering a sales req
 license: MIT
 metadata:
   author: Maya-Beth Finotti
-  version: "1.2.10"
+  version: "1.2.11"
 ---
 
 # Sales Kickoff
@@ -196,7 +196,7 @@ The ordering is a default, not a law - it shifts with the motion and with who ex
 Planning skills decide the frame the execution ladder runs inside, so they rank against each other on their own ratio. Default class order, highest value/effort ratio first:
 
 1. **Frame** - `sales-icp-definition`, `sales-motion`. Buys who is sold to and how, which every number below inherits. A workshop each - and wrong here makes every downstream model precise and wrong.
-2. **Market shape** - `sales-account-segmentation`, `sales-account-tiering`, `sales-market-sizing`. Buys a scored, grouped, ranked account universe with a coverage level per group. Days each, over data mostly already held.
+2. **Market shape** - `sales-account-segmentation`, `sales-account-tiering`, `sales-market-sizing`. Buys a scored, grouped, ranked account universe with a coverage level per group. Days to a week or two each, over data mostly already held.
 3. **The number** - `sales-quota-setting`, `sales-pipeline-coverage-modeling`. Buys a target the field can be held to and the pipeline it implies. A planning cycle, and worth nothing until the frame is settled.
 4. **People and pay** - `sales-org-structure`, `sales-comp-design`. Buys the topology and the incentives that execute all of it. Costs a reorg or a re-comp, and is the hardest thing here to unwind.
 

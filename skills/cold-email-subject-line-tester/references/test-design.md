@@ -33,8 +33,8 @@ A real power calculation needs four inputs:
 - Significance level (95%).
 - Statistical power (80%).
 
-- efficiency: `rule-of-thumb floor > power calculation`. The floor costs near-zero and is right often enough to plan around; the calculation costs an hour and needs a baseline rate the user may not have yet.
-- Promote the power calculation when the list is large enough that the extra sends are free, or when the decision is expensive enough that shipping an underpowered result would cost more than the hour.
+- efficiency: `rule-of-thumb floor > power calculation`. The floor costs near-zero and is right often enough to plan around; the calculation costs a quarter hour and needs a baseline rate the user may not have yet.
+- Promote the power calculation when the list is large enough that the extra sends are free, or when the decision is expensive enough that shipping an underpowered result would cost more than that quarter hour.
 
 - Duration: at least one full week to cover day-of-week effects; 2-4 weeks is typical.
 - More variants multiply the sample: 3 variants need ~1.5x the total, 4 need ~2x. At low volume, cap the test at 2-3 variants and park the rest.

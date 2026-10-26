@@ -22,7 +22,7 @@ Informational only, not legal advice. Status is in flux - EU transposition is in
 Read `>` as "more of this axis"; the efficiency line is the order to work in.
 
 - efficiency: publish ranges and drop salary-history > structured interview and scored work sample > human review of automated rejections > independent bias audit > works-council submission
-- effort: works-council submission (a quarter, and the council can refuse) > independent bias audit (a quarter, external auditor, annual thereafter) > human review of rejections (a standing job) > structured instruments (a week, and Artifacts 1-3 already build them) > publish ranges and delete salary-history questions (near-zero)
+- effort: works-council submission (a quarter, and the council can refuse) > independent bias audit (a quarter, external auditor, annual thereafter) > human review of rejections (a standing job) > structured instruments (a few days, and Artifacts 1-3 already build them) > publish ranges and delete salary-history questions (near-zero)
 
 **The move that deletes three rows:** declining to adopt an AI screening tool at all removes, in one decision:
 

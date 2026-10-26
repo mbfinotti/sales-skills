@@ -4,7 +4,7 @@ description: Designs how sales quotas are derived for a team or company - top-do
 license: MIT
 metadata:
   author: Maya-Beth Finotti
-  version: "1.1.1"
+  version: "1.1.2"
 ---
 
 # Sales Quota Setting
@@ -53,9 +53,9 @@ Three rungs, all hybrid - a top-down target validated against a bottom-up build.
 
 - efficiency: `divide-and-validate > full hybrid > standing model`
 - value: `standing model > full hybrid > divide-and-validate`
-- effort: `standing model (a standing job) > full hybrid (a planning cycle) > divide-and-validate (a day or two)`
+- effort: `standing model (a standing job) > full hybrid (a planning cycle) > divide-and-validate (half a day)`
 
-1. **Divide-and-validate.** Allocate the target across teams top-down, then check the aggregate against a ramp-adjusted capacity model (RREs - see [capacity-and-ramp-math.md](./references/capacity-and-ramp-math.md)). Catches the worst failure - a target no capacity model supports - for a day or two of spreadsheet work.
+1. **Divide-and-validate.** Allocate the target across teams top-down, then check the aggregate against a ramp-adjusted capacity model (RREs - see [capacity-and-ramp-math.md](./references/capacity-and-ramp-math.md)). Catches the worst failure - a target no capacity model supports - for about half a day of spreadsheet work.
 2. **Full hybrid.** Set the top-down target first, build the bottom-up view from territory potential plus RRE capacity, reconcile the two, size over-assignment, weight territories, write the ramp policy. The complete workflow below.
 3. **Standing model.** Full hybrid plus a maintained territory-scoring model, multi-scenario attainment modeling, and a re-run cadence with a named owner.
 

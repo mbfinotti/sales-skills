@@ -4,7 +4,7 @@ description: Designs the sales compensation plan structure - pay mix (base/varia
 license: MIT
 metadata:
   author: Maya-Beth Finotti
-  version: "1.3.2"
+  version: "1.3.3"
 ---
 
 # Sales Compensation Plan Design
@@ -53,7 +53,7 @@ Re-rank the ladder below against answers 9-11, and say which answer moved what:
 
 - efficiency: `targeted tune > full redesign > standing program`
 - value: `standing program > full redesign > targeted tune`
-- effort: `standing program (a standing job) > full redesign (a planning cycle) > targeted tune (days)`
+- effort: `standing program (a standing job) > full redesign (a planning cycle) > targeted tune (a day or two of back-testing, then sign-off)`
 - compliance cost: `targeted tune mid-cycle > full redesign == standing program` - a mid-cycle pay change is a governance exception needing re-signed agreements and is a named demotivation and turnover cause; an annual redesign carries sign-off as routine.
 
 1. **Targeted tune.** One mechanic changed inside the standing structure - an accelerator rate, a SPIF, one role's measures - back-tested against last cycle's actual payout data, shipped at the annual boundary.

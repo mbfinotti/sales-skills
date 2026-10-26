@@ -4,7 +4,7 @@ description: Designs the tier layer downstream of an existing account fit score 
 license: MIT
 metadata:
   author: Maya-Beth Finotti
-  version: "1.0.1"
+  version: "1.0.2"
 ---
 
 # Sales Account Tiering
@@ -163,7 +163,7 @@ The `==` tie is real co-dependence, not indecision:
 Ship them together as the default rung.
 
 - **Capacity caps** - near-zero effort once the structure exists; the section above.
-- **SLA-encoded coverage differentiation** - encode per-tier touch cadence, channel mix, personalization depth and response SLAs into the CRM and marketing-automation platform, not a slide. Moderate RevOps effort; this is the lever that converts tier membership into observable rep behavior.
+- **SLA-encoded coverage differentiation** - encode per-tier touch cadence, channel mix, personalization depth and response SLAs into the CRM and marketing-automation platform, not a slide. Light-to-moderate RevOps effort: the configuration is quick, testing the rules and walking reps through them is not; this is the lever that converts tier membership into observable rep behavior.
 - **QBR-cadence differentiation** - quarterly business reviews for the top tier, semi-annual or automated value summaries below. Low effort, honest value: a Tier-1 QBR costs roughly 3-6 hours of preparation, so running true QBRs for every account produces shallow QBRs for everyone.
 - **Executive sponsorship** - a formal program pairing top-tier accounts with named executives (a public reference point: GitLab caps sponsors at 4 accounts each, with annual selection and a one-year commitment). High effort - executive hours and governance. Promote it once the Tier-1 book is at or under its cap and executives commit for a full year; without both, it is a logo slide.
 - **Dedicated account pods (AE + SDR + SE per account or cluster)** - the starved option: highest-touch coverage and the highest effort, an org-design change rather than a coverage setting, so it loses every efficiency round. Promote it when the account value sits in the top ACV bands of the capacity table - the 1:1 named range, where one account is worth a whole team - and design it with mbfinotti/sales-skills@sales-org-structure, because pod design is that skill's ground.

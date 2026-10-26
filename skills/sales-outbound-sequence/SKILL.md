@@ -4,7 +4,7 @@ description: Plans a touch-by-touch outbound cadence - which channel on which da
 license: MIT
 metadata:
   author: Maya-Beth Finotti
-  version: "1.3.6"
+  version: "1.3.7"
 ---
 
 # Outbound Sequence

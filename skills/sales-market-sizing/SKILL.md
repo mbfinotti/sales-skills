@@ -4,7 +4,7 @@ description: Estimates TAM, SAM, and SOM for a market or sub-segment to ground s
 license: MIT
 metadata:
   author: Maya-Beth Finotti
-  version: "1.2.9"
+  version: "1.2.10"
 ---
 
 # Sales Market Sizing
@@ -63,9 +63,9 @@ Three rungs, cumulative - each contains the one below it. They are numbered by d
 
 - efficiency: `triangulated build > top-down scoping > standing model`
 - value: `standing model > triangulated build > top-down scoping`
-- effort: `standing model (a standing job with a named owner) > triangulated build (days to a couple of weeks) > top-down scoping (hours)`
+- effort: `standing model (a standing job with a named owner) > triangulated build (a couple of days to a week) > top-down scoping (an hour or two)`
 
-1. **Top-down scoping.** A published category figure narrowed by geography and segment filters, with a capture-rate assumption. Buys an order of magnitude in hours - legitimate as a first-day bound or board-slide context, never as the number quota or territory math consumes (that misuse is the first failure mode below).
+1. **Top-down scoping.** A published category figure narrowed by geography and segment filters, with a capture-rate assumption. Buys an order of magnitude in an hour or two - legitimate as a first-day bound or board-slide context, never as the number quota or territory math consumes (that misuse is the first failure mode below).
 2. **Triangulated build.** Bottom-up as the primary calculation - B2B: `TAM = Σ (qualifying company count × ACV)` per segment; B2C: `TAM = addressable population × purchase rate × average annual spend` - with the top-down figure kept only as a sanity check. Results within ~30% of each other build confidence; divergence past ~50% means the market definition is wrong, not that one number can be discarded. The complete workflow below.
 3. **Standing model.** The triangulated build maintained as a live database of named accounts scored against the ICP, on the refresh cadence in step 8, with a named owner. The sizing exercise then produces a prioritized target-account list as a byproduct - a TAM analysis is only useful once it translates into an actionable account list for the sales team (Jeff Ignacio's framing, from his Sales Capacity Framework).
 
@@ -81,7 +81,7 @@ Rank the source tiers by efficiency. Work down the list only when the tier above
 
 - efficiency: `free public sources > firmographic/technographic database > paid analyst reports > primary research`
 - value for a planning-grade build: `firmographic/technographic database > primary research > free public sources > paid analyst reports`
-- effort: `primary research (weeks of interviews or a survey panel) > paid analyst reports (procurement and budget sign-off) > firmographic database (a seat the org may already own, plus query time) > free public sources (hours of desk research)`
+- effort: `primary research (weeks of interviews or a survey panel) > paid analyst reports (procurement and budget sign-off) > firmographic database (a seat the org may already own, plus query time) > free public sources (an hour or two of desk research)`
 - compliance cost: `primary research (consent and data-handling review before the first interview; collected responses are hard to un-collect) > paid analyst reports (license terms restrict reusing the figures outside the org, so an external deck needs a permissions check) > firmographic database (vendor data-processing terms) == free public sources (attribution only)`
 
 Default: start free - government business statistics, public-company filings (the single best free way to validate a bottom-up number is a public comparable's segment revenue), trade associations, international statistical bodies.

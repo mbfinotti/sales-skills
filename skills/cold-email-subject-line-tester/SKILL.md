@@ -4,7 +4,7 @@ description: Generates, scores, and split-tests email subject lines, producing a
 license: MIT
 metadata:
   author: Maya-Beth Finotti
-  version: "1.4.3"
+  version: "1.4.4"
 ---
 
 # Subject Line Tester

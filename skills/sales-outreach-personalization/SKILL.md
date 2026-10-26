@@ -4,7 +4,7 @@ description: Turns prospect signals into 2-3 ranked personalization angles for o
 license: MIT
 metadata:
   author: Maya-Beth Finotti
-  version: "1.4.9"
+  version: "1.4.10"
 ---
 
 # Outreach Personalization
@@ -52,8 +52,8 @@ Every angle ships with all five parts. A missing part means the angle is not don
 
 Classify every supplied signal into one category before ranking; category determines the typical inference and freshness window. When you are choosing what to go looking for - rather than sorting what you were handed - work the categories in efficiency order: replies bought per minute of sourcing, not raw signal strength.
 
-- **Efficiency**: hiring == leadership change > product and launch news > community and review activity > tooling change > public content and speaking > funding and financial
-- **Effort** (minutes to source, tool access you must work around the absence of, and whose attention it spends): community and review monitoring (a standing job to watch the venues buyers post in) > mutual connection activated (an hour, and it spends someone else's calendar) == flagship talk watched end to end (an hour) == tooling change without a detection service (an hour of guessing; near-zero with one) == funding round qualified down to what it actually funds (an hour) > hiring == leadership change == product/launch == a single post (near-zero - one dated lookup on a page the account publishes about itself)
+- **Efficiency**: hiring == leadership change > tooling change > product and launch news > community and review activity > public content and speaking > funding and financial
+- **Effort** (minutes to source, tool access you must work around the absence of, and whose attention it spends): community and review monitoring (a standing job to watch the venues buyers post in) > mutual connection activated (an hour, and it spends someone else's calendar) == flagship talk watched end to end (an hour) > tooling change without a detection service (a short research pass; near-zero with one) == funding round qualified down to what it actually funds (a short research pass) > hiring == leadership change == product/launch == a single post (near-zero - one dated lookup on a page the account publishes about itself)
 - **Value** (positive replies and meetings): community and review activity == relationship and mutual connection > leadership change > hiring == tooling change > public content > product and launch news > funding and financial
 - **Compliance cost** (the review it triggers and what it costs to reverse): B2C behavioural signals (a marketing-consent check before every send; an unwanted send cannot be unsent) > community and review activity (a venue-norm judgement - a public post turned into an uninvited DM costs standing on the platform and with the buyer) > everything on the public professional record (near-zero)
 
@@ -61,7 +61,8 @@ Classify every supplied signal into one category before ranking; category determ
 
 - Hiring and leadership change: both are one dated lookup on a page the account publishes about itself, and both imply the same class of problem - a team changing shape - so neither buys more per minute.
 - Community activity and a mutual connection: equal on value because both replace your inference with something the prospect, or someone they trust, has already said.
-- The three "an hour" items: equal because an hour is the smallest magnitude worth asserting; a finer ordering between them would be invented.
+- Mutual connection and the flagship talk: equal because both cost an hour; the difference is whose hour, which is why the mutual connection still loses every efficiency round.
+- Tooling change and a qualified funding round: equal because each is one short pass over public pages plus a judgement; a finer ordering between them would be invented.
 
 Default: run hiring and leadership change on every account - one lookup each, live on most accounts. Promote community and review activity as soon as you know the venue your buyers actually post in; that standing cost is paid once for the whole segment, never per prospect.
 
@@ -85,9 +86,9 @@ This order is a default, not a law: it shifts with the segment and with who exec
 
 - Hiring and job postings
 - Leadership and role changes
+- Technology and tooling changes
 - Product and launch news
 - Community and review activity
-- Technology and tooling changes
 - Public content and speaking
 - Relationship and mutual-connection signals
 - Funding and financial events
@@ -151,7 +152,7 @@ This is the load-bearing guard. Everything else in this skill is negotiable agai
 Decide the tier in the interview; it sets how much research time each prospect gets and the depth of angle to aim for.
 
 - **Efficiency** (meetings booked per hour of research): 1:few > 1:many > 1:1
-- **Effort**: 1:1 (an hour per account, every account, every time) > 1:few (a week of segment research once, then near-zero per prospect) == 1:many (that same one-time pass, plus a standing job to keep B2C trigger data live)
+- **Effort**: 1:1 (half an hour per account, every account, every time, most of it verifying each signal at source) > 1:few (a day of segment research once, then near-zero per prospect) == 1:many (that same one-time pass, plus a standing job to keep B2C trigger data live)
 - **Value** (per prospect reached): 1:1 > 1:few > 1:many
 
 1:few and 1:many tie on effort because the expensive part of both is the same one-time segment pass; what separates them is where the payoff lands, not what they cost.
@@ -162,7 +163,7 @@ Ranked, best ratio first:
 - **1:many**: volume outreach or B2C lifecycle. Personalize at segment/persona level: Jeb Blount's "because statement" (Sales Gravy, with Chris Beall) - one researched, pattern-based reason-for-contact sentence serving the whole list.
 - **1:1 deep-dive**: named strategic accounts, high deal value. Individual-level signals; verify each one at its source; all five anatomy parts bespoke.
 
-Move up to 1:1 when the account list is short and named and one meeting repays a day of research. What moves you down to 1:many is the templating rule at the end of this section.
+Move up to 1:1 when the account list is short and named and one meeting repays half a day of research. What moves you down to 1:many is the templating rule at the end of this section.
 
 What this order starves: **1:1 deep-dive** - the highest value per prospect and the highest effort, so it loses every efficiency round and a rep who only ever computes ratios never runs it.
 
